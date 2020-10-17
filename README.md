@@ -1,6 +1,6 @@
 # python sms sender ( bulk sms )
 Python SMS sender with SMS Gateway API. Send SMS messages from Command Line / Terminal
-
+THIS TOOL IS CREATED BY ACHHAT KUMAR GUPTA
 1. Download and run script
 2. Go to API Settings - Update Settings
 3. Enter your Proovl <a href="https://www.proovl.com" target="_blank">https://www.proovl.com</a> API Number, UserID and Token
